@@ -1,0 +1,16 @@
+{
+  "name": "hotrest",
+  "version": "1.0.0",
+  "description": "A Super cool Node / Express based web application for handling reservation requests.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "",
+  "license": "ISC"
+}
